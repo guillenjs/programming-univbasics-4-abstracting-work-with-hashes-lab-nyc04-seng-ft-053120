@@ -16,5 +16,6 @@ if hash[key]
   hash[key] +1
 else
   hask[key] = 1
+end
 
 end
